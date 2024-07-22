@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs"
+  message: "Welcome to EazyBank cards related Production APIs"
   contactDetails:
     name: "Dario Vinueza - Product Owner"
     email: "{cipher}e748c435c345f3eab6cfd68dcd6ee25ecb97ebff19bc9a88da5bf97b6c4962ac7e92800853c363f21db8ea876a509c33"
