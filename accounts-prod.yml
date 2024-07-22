@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Webhook Production APIs"
+  message: "Welcome to EazyBank accounts related Webhook Prod APIs"
   contactDetails:
     name: "Dario Vinueza - Product Owner"
     email: "darvinnueza@gmail.com"
