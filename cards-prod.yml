@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Dario Vinueza - Product Owner"
-    email: "darvinnueza@gmail.com"
+    email: "{cipher}e748c435c345f3eab6cfd68dcd6ee25ecb97ebff19bc9a88da5bf97b6c4962ac7e92800853c363f21db8ea876a509c33"
   onCallSupport:
     - (555)555-1234
     - (555)523-1345
