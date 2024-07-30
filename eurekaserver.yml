@@ -2,9 +2,6 @@ server:
   port: 8070
 
 eureka:
-  server:
-    renewalPercentThreshold: 0.85
-    evictionIntervalTimerInMs: 60000
   instance:
     hostname: localhost
   client:
